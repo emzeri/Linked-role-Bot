@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const linkedRoles = [
   {
     key: "owner_linked",
@@ -35,3 +36,13 @@ const attribution = {
 };
 
 module.exports = { linkedRoles, attribution };
+=======
+export default [
+  {
+    key: "github_verified",
+    name: "GitHub Verified",
+    description: "User has linked their GitHub account",
+    type: 7
+  }
+];
+>>>>>>> 892daef (feat: linkedRoles hierarchy + embed attribution)

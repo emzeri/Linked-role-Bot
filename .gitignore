@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 node_modules/
 .env
 .DS_Store
+=======
+node_modules/
+.env
+.DS_Store
+>>>>>>> 892daef (feat: linkedRoles hierarchy + embed attribution)
