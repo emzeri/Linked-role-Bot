@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 require("dotenv").config();
 const { Client, GatewayIntentBits, EmbedBuilder } = require("discord.js");
 const { linkedRoles, attribution } = require("./metadata");
@@ -34,6 +33,7 @@ client.on("messageCreate", async (message) => {
 });
 
 client.login(process.env.BOT_TOKEN);
+
 =======
 import express from "express";
 import fetch from "node-fetch";
