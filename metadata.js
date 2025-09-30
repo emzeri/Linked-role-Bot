@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const linkedRoles = [
   {
     key: "owner_linked",
@@ -36,6 +35,7 @@ const attribution = {
 };
 
 module.exports = { linkedRoles, attribution };
+
 =======
 export default [
   {
